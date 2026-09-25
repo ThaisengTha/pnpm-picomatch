@@ -1,4 +1,0 @@
-overrides:
-  expect: 30.3.0
-  jest-message-util>picomatch: 4.0.3
-  jest-util>picomatch: 4.0.3
