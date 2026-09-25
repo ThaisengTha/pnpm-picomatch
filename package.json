@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "private": true,
   "description": "Manifest reproducing the picomatch dependency paths from SNYK-JS-PICOMATCH-15765511 for verification purposes.",
-  "devDependencies": {
+  "dependencies": {
     "@nestjs/cli": "11.0.16",
     "@nestjs/schematics": "11.0.9",
     "@types/jest": "30.0.0"
